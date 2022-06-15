@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0px;
+    padding: 30px;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+label {
+    display: block;
+    margin-bottom: 20px;
+}
+
+input[type=text] {
+    padding: 10px;
+    width: 500px;
+}
